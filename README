@@ -1,0 +1,13 @@
+good microservice framework
+===========================
+
+Good is a small and thin wrapper that composes and isolates under it's interfaces 
+a list of well known popular packages aimed at solving a spectrum of problems like:
+- http request serving
+- service configuration
+- database connections
+- ORM and data mapper
+- database migrations
+- logging
+- handling signals and graceful shutdown
+- di container
